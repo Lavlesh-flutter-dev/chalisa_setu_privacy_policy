@@ -285,6 +285,7 @@ You have the right to:
     );
   }
 
+
   Widget _buildHighlightCard(String content) {
     return Container(
       width: double.infinity,
