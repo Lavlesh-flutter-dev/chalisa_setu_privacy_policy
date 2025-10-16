@@ -1,0 +1,6 @@
+.git
+.github
+flutter/
+build/
+*.log
+node_modules
